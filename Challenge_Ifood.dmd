@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Challenge_Ifood" id="C64CD230-8CBD-1E8C-09D3-18C5ED18D97B" version="3.5">
+<createdBy>ADMIN</createdBy>
+<createdTime>2022-05-31 20:27:28 UTC</createdTime>
+<ownerDesignName>Challenge_Ifood</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C64CD230-8CBD-1E8C-09D3-18C5ED18D97B</designId>
+</OSDM_Design>
